@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAHUL</Machine>
+    <WindowsUser>rahul</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b911003e-257b-48c5-bce3-598cbba822ad</PackageIdentityName>
+    <IntermediateOutputPath>F:\circuit theory\AppStudio.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Data\bin\Release\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\AppBar\GoToSource.png">
+      <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\AppBar\PinToStart.png">
+      <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\AppBar\Refresh.png">
+      <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\AppBar\TextToSpeech.png">
+      <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\NoImage.png">
+      <PackagePath>Assets\NoImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\VideoError.png">
+      <PackagePath>Assets\VideoError.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\115217519.png">
+      <PackagePath>Assets\DataImages\115217519.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\social_network_abstract.png">
+      <PackagePath>Assets\DataImages\social_network_abstract.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Online-Network-Marketing.png">
+      <PackagePath>Assets\DataImages\Online-Network-Marketing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\ELECTRONICSViews.xaml">
+      <PackagePath>Views\DataTemplates\ELECTRONICSViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\CircuitsAndNetworksViews.xaml">
+      <PackagePath>Views\DataTemplates\CircuitsAndNetworksViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\CIRCUITSViews.xaml">
+      <PackagePath>Views\DataTemplates\CIRCUITSViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\NETWORKSViews.xaml">
+      <PackagePath>Views\DataTemplates\NETWORKSViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\EXTRAINFOViews.xaml">
+      <PackagePath>Views\DataTemplates\EXTRAINFOViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Views\DataTemplates\AUDIOVISUALSViews.xaml">
+      <PackagePath>Views\DataTemplates\AUDIOVISUALSViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\SplashScreen.scale-240.jpg">
+      <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\Assets\ApplicationBackgroundImage.jpg">
+      <PackagePath>Assets\ApplicationBackgroundImage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile1.jpg">
+      <PackagePath>Assets\DataImages\Tile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile2.jpg">
+      <PackagePath>Assets\DataImages\Tile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile3.jpg">
+      <PackagePath>Assets\DataImages\Tile3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile4.jpg">
+      <PackagePath>Assets\DataImages\Tile4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile5.jpg">
+      <PackagePath>Assets\DataImages\Tile5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile6.jpg">
+      <PackagePath>Assets\DataImages\Tile6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Circuit-Board-Assembly.jpg">
+      <PackagePath>Assets\DataImages\Circuit-Board-Assembly.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Circuit-board-with-chips-wallpaper_5454.jpg">
+      <PackagePath>Assets\DataImages\Circuit-board-with-chips-wallpaper_5454.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\kirchoff_junction_rule.jpg">
+      <PackagePath>Assets\DataImages\kirchoff_junction_rule.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\519b958acded896906.jpg">
+      <PackagePath>Assets\DataImages\519b958acded896906.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images.jpg">
+      <PackagePath>Assets\DataImages\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\light_p25a.jpg">
+      <PackagePath>Assets\DataImages\light_p25a.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\light_p25b.jpg">
+      <PackagePath>Assets\DataImages\light_p25b.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\torus.jpg">
+      <PackagePath>Assets\DataImages\torus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images__1_.jpg">
+      <PackagePath>Assets\DataImages\images__1_.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\telecommunications_364113957.jpg">
+      <PackagePath>Assets\DataImages\telecommunications_364113957.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images-1.jpg">
+      <PackagePath>Assets\DataImages\images-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images__1_-1.jpg">
+      <PackagePath>Assets\DataImages\images__1_-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\RadioTower.jpg">
+      <PackagePath>Assets\DataImages\RadioTower.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\1-shutterstock_59286082.jpg">
+      <PackagePath>Assets\DataImages\1-shutterstock_59286082.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Controls\WebControl.xbf">
+      <PackagePath>Controls\WebControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\AboutThisAppPage.xbf">
+      <PackagePath>Views\AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\CircuitsAndNetworksDetailPage.xbf">
+      <PackagePath>Views\CircuitsAndNetworksDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\CIRCUITSDetailPage.xbf">
+      <PackagePath>Views\CIRCUITSDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\NETWORKSDetailPage.xbf">
+      <PackagePath>Views\NETWORKSDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\EXTRAINFODetailPage.xbf">
+      <PackagePath>Views\EXTRAINFODetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Views\AUDIOVISUALSDetailPage.xbf">
+      <PackagePath>Views\AUDIOVISUALSDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Styles\ControlStyles.xbf">
+      <PackagePath>Styles\ControlStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

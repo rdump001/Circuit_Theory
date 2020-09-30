@@ -1,0 +1,2 @@
+F:\circuit theory\AppStudio.Data\AppStudio.Data.csproj;neutral
+F:\circuit theory\AppStudio.Windows\AppStudio.Windows.csproj;neutral

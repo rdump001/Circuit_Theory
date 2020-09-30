@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAHUL</Machine>
+    <WindowsUser>rahul</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>95a1d31a-ac43-4c1b-af13-fa495741c5a6</PackageIdentityName>
+    <IntermediateOutputPath>F:\circuit theory\AppStudio.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EE1CC1D1E4C7D567ECA86C319F052076304DAF2DEF3E153DFDD017C5FC4DD937</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>95a1d31a-ac43-4c1b-af13-fa495741c5a6_1.0.2.0_neutral__952nprnvtrww2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>95a1d31a-ac43-4c1b-af13-fa495741c5a6_952nprnvtrww2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>95a1d31a-ac43-4c1b-af13-fa495741c5a6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AppStudio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\circuit theory\AppStudio.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T08:05:48.541</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+      <Modified>2014-10-12T08:05:30.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T06:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T06:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T08:53:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T08:53:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+      <Modified>2014-10-12T08:05:22.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2014-10-12T08:05:21.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-10-12T08:02:04.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+      <Modified>2014-10-12T08:01:40.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+      <Modified>2014-10-12T08:01:40.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T06:12:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T06:12:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T06:13:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T06:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\AppBar\GoToSource.png">
+      <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\AppBar\PinToStart.png">
+      <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\AppBar\Refresh.png">
+      <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\AppBar\TextToSpeech.png">
+      <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\NoImage.png">
+      <PackagePath>Assets\NoImage.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\VideoError.png">
+      <PackagePath>Assets\VideoError.png</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\115217519.png">
+      <PackagePath>Assets\DataImages\115217519.png</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\social_network_abstract.png">
+      <PackagePath>Assets\DataImages\social_network_abstract.png</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Online-Network-Marketing.png">
+      <PackagePath>Assets\DataImages\Online-Network-Marketing.png</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\ELECTRONICSViews.xaml">
+      <PackagePath>Views\DataTemplates\ELECTRONICSViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\CircuitsAndNetworksViews.xaml">
+      <PackagePath>Views\DataTemplates\CircuitsAndNetworksViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\CIRCUITSViews.xaml">
+      <PackagePath>Views\DataTemplates\CIRCUITSViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\NETWORKSViews.xaml">
+      <PackagePath>Views\DataTemplates\NETWORKSViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\EXTRAINFOViews.xaml">
+      <PackagePath>Views\DataTemplates\EXTRAINFOViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Views\DataTemplates\AUDIOVISUALSViews.xaml">
+      <PackagePath>Views\DataTemplates\AUDIOVISUALSViews.xaml</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\Assets\ApplicationBackgroundImage.jpg">
+      <PackagePath>Assets\ApplicationBackgroundImage.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile1.jpg">
+      <PackagePath>Assets\DataImages\Tile1.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile2.jpg">
+      <PackagePath>Assets\DataImages\Tile2.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile3.jpg">
+      <PackagePath>Assets\DataImages\Tile3.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile4.jpg">
+      <PackagePath>Assets\DataImages\Tile4.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile5.jpg">
+      <PackagePath>Assets\DataImages\Tile5.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Tile6.jpg">
+      <PackagePath>Assets\DataImages\Tile6.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Circuit-Board-Assembly.jpg">
+      <PackagePath>Assets\DataImages\Circuit-Board-Assembly.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\Circuit-board-with-chips-wallpaper_5454.jpg">
+      <PackagePath>Assets\DataImages\Circuit-board-with-chips-wallpaper_5454.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\kirchoff_junction_rule.jpg">
+      <PackagePath>Assets\DataImages\kirchoff_junction_rule.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\519b958acded896906.jpg">
+      <PackagePath>Assets\DataImages\519b958acded896906.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images.jpg">
+      <PackagePath>Assets\DataImages\images.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\light_p25a.jpg">
+      <PackagePath>Assets\DataImages\light_p25a.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\light_p25b.jpg">
+      <PackagePath>Assets\DataImages\light_p25b.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\torus.jpg">
+      <PackagePath>Assets\DataImages\torus.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images__1_.jpg">
+      <PackagePath>Assets\DataImages\images__1_.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\telecommunications_364113957.jpg">
+      <PackagePath>Assets\DataImages\telecommunications_364113957.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images-1.jpg">
+      <PackagePath>Assets\DataImages\images-1.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\images__1_-1.jpg">
+      <PackagePath>Assets\DataImages\images__1_-1.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\RadioTower.jpg">
+      <PackagePath>Assets\DataImages\RadioTower.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Shared\Assets\DataImages\1-shutterstock_59286082.jpg">
+      <PackagePath>Assets\DataImages\1-shutterstock_59286082.jpg</PackagePath>
+      <Modified>2014-10-12T02:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Controls\WebControl.xbf">
+      <PackagePath>Controls\WebControl.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\AppFlyouts\AboutFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\AboutFlyout.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\AppFlyouts\PrivacyFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\PrivacyFlyout.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\CircuitsAndNetworksList.xbf">
+      <PackagePath>Views\CircuitsAndNetworksList.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\CircuitsAndNetworksDetailPage.xbf">
+      <PackagePath>Views\CircuitsAndNetworksDetailPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\CIRCUITSList.xbf">
+      <PackagePath>Views\CIRCUITSList.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\CIRCUITSDetailPage.xbf">
+      <PackagePath>Views\CIRCUITSDetailPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\NETWORKSList.xbf">
+      <PackagePath>Views\NETWORKSList.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\NETWORKSDetailPage.xbf">
+      <PackagePath>Views\NETWORKSDetailPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\EXTRAINFOList.xbf">
+      <PackagePath>Views\EXTRAINFOList.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\EXTRAINFODetailPage.xbf">
+      <PackagePath>Views\EXTRAINFODetailPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\AUDIOVISUALSList.xbf">
+      <PackagePath>Views\AUDIOVISUALSList.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Views\AUDIOVISUALSDetailPage.xbf">
+      <PackagePath>Views\AUDIOVISUALSDetailPage.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Styles\ControlStyles.xbf">
+      <PackagePath>Styles\ControlStyles.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+      <Modified>2014-10-12T08:05:29.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+      <Modified>2014-10-12T08:05:28.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\circuit theory\AppStudio.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-12T08:05:31.602</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
